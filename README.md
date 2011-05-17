@@ -1,1 +1,1 @@
-Solution of [RubyKoans](http://rubykoans.com/) - In Progress
+Solution of [RubyKoans](http://rubykoans.com/) - Completed
